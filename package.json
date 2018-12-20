@@ -1,10 +1,19 @@
 {
   "name": "weifei18",
   "version": "0.1.0",
+  "license": "MIT",
   "private": true,
   "dependencies": {
+    "antd": "^3.10.7",
+    "hapi": "^17.8.1",
+    "inert": "^5.1.2",
+    "lodash": "^4.17.11",
+    "moment": "^2.23.0",
+    "nes": "^9.1.0",
     "react": "^16.6.3",
-    "react-dom": "^16.6.3"
+    "react-dom": "^16.6.3",
+    "server": "^1.0.18",
+    "shortid": "^2.2.14"
   },
   "devDependencies": {
     "react-scripts": "2.1.1"
@@ -13,7 +22,8 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "server": "node server.js"
   },
   "eslintConfig": {
     "extends": "react-app"

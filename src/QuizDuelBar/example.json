@@ -1,0 +1,48 @@
+{
+  "quizdata": {
+    "mulzerquiz": [],
+    "informatikquiz": [],
+    "mathequiz": [],
+    "allgemein": [
+      {
+        "question": "xyz?",
+        "answers": [
+          { "id": 1, "text": "ABC" },
+          { "id": 2, "text": "ABC" },
+          { "id": 3, "text": "ABC" },
+          { "id": 4, "text": "ABC" }
+        ],
+        "correctAnswer": 2,
+        "image": "./images/...png",
+        "points": 30,
+        "time": 60
+      },
+      {
+        "question": "xyz?",
+        "answers": [
+          { "id": 1, "text": "ABC" },
+          { "id": 2, "text": "ABC" },
+          { "id": 3, "text": "ABC" },
+          { "id": 4, "text": "ABC" }
+        ],
+        "correctAnswer": 2,
+        "image": "./images/...png",
+        "points": 30,
+        "time": 60
+      },
+      {
+        "question": "xyz?",
+        "answers": [
+          { "id": 1, "text": "ABC" },
+          { "id": 2, "text": "ABC" },
+          { "id": 3, "text": "ABC" },
+          { "id": 4, "text": "ABC" }
+        ],
+        "correctAnswer": 2,
+        "image": "./images/...png",
+        "points": 30,
+        "time": 60
+      }
+    ]
+  }
+}
